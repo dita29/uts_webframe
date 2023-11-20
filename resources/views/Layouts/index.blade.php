@@ -18,7 +18,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{asset('oke/style.css')}}">
 
-    <title>Bayu Aditya Saputra</title>
+    <title>Dita Tarna Sari</title>
     <link rel="icon" href="{{asset('oke/img/favicon/github.png')}}" type="image/gif" sizes="16x16">
 </head>
 <body id="home">
